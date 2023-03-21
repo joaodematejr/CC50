@@ -34,9 +34,24 @@ int main(void) {
         printf("%i ", list[i]);
     }
 
+    int *tmp = realloc(list, 4 * sizeof(int));
+    
+    if (tmp == NULL) {
+        free(list);
+        return 1;
+    }
 
-    //parei 51:00 do video
+    list = tmp;
+
+
+    free(list);
+
+
+    //parei 1:00:29 do video
 
 }
+
+//printer file documents
+
 
 
