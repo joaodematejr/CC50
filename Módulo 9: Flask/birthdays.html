@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Aniversários</title>
+</head>
+<body>
+    <h1>Lista de Aniversários</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Data de Nascimento</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for birthday in birthdays %}
+            <tr>
+                <td>{{ birthday['name'] }}</td>
+                <td>{{ birthday['date'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <h2>Adicionar Novo Aniversário</h2>
+
+    <form method="POST" action="{{ url_for('add') }}">
+        <label for="name">Nome:</label>
+        <input type="text" name="name" id="name">
+
+        <label for="date">Data de Nascimento:</label>
+        <input type="date" name="date" id="date">
+
+        <button type="submit">Adicionar</button>
+    </form>
+</body>
+</html>

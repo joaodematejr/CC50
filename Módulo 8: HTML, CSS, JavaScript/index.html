@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Trivia</title>
+	<meta charset="UTF-8">
+	<style>
+		form {
+			margin-bottom: 20px;
+		}
+		label {
+			display: block;
+			margin-bottom: 5px;
+			font-weight: bold;
+		}
+		input[type="text"] {
+			margin-bottom: 10px;
+			padding: 5px;
+			width: 100%;
+			box-sizing: border-box;
+		}
+		button[type="submit"] {
+			padding: 5px 10px;
+			background-color: #4CAF50;
+			color: white;
+			border: none;
+			border-radius: 3px;
+			cursor: pointer;
+		}
+		.correct {
+			color: green;
+			font-weight: bold;
+		}
+		.incorrect {
+			color: red;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<h1>Trivia</h1>
+	<form>
+		<label>1. Qual é o maior planeta do sistema solar?</label>
+		<input type="text" id="q1">
+		<label>2. Qual é o nome do pintor holandês famoso por seus girassóis?</label>
+		<input type="text" id="q2">
+		<button type="submit" onclick="checkAnswers()">Verificar respostas</button>
+	</form>
+	<div id="results"></div>
+	<script>
+		function checkAnswers() {
+			var q1 = document.getElementById("q1").value.toLowerCase();
+			var q2 = document.getElementById("q2").value.toLowerCase();
+			var results = document.getElementById("results");
+			if (q1 === "júpiter") {
+				results.innerHTML += "<p class='correct'>1. Correto!</p>";
+			} else {
+				results.innerHTML += "<p class='incorrect'>1. Incorreto.</p>";
+			}
+			if (q2 === "van gogh") {
+				results.innerHTML += "<p class='correct'>2. Correto!</p>";
+			} else {
+				results.innerHTML += "<p class='incorrect'>2. Incorreto.</p>";
+			}
+		}
+	</script>
+</body>
+</html>

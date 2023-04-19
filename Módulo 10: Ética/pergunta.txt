@@ -1,0 +1,62 @@
+Como consertar “fake news”
+Por Regina Rini - 15 de outubro de 2018. (A Sra. Rini é professora de filosofia na York University em Toronto.)
+
+A tecnologia deu origem a uma era de desinformação. Mas a filosofia, e um olhar mais atento para o nosso próprio comportamento, poderia ajudar a eliminá-la.
+
+ 
+
+A tecnologia gerou o problema das “fake news”, e é tentador pensar que a tecnologia pode resolvê-lo, que nós só precisamos encontrar o algoritmo certo e consertar o problema com algumas linhas de código. Mas esta abordagem ignora lições valiosas da epistemologia, o ramo da filosofia preocupado com a forma como adquirimos conhecimento.
+
+Para entender como podemos resolver o problema das fake news, comece com a fofoca no happy hour. Imagine que você saiu para tomar uns drinques quando um de seus amigos sacode a mesa com um boato sobre um político local. A história é tão escandaloso que você não tem certeza se pode ser verdade. Mas aqui está seu grande amigo, garantindo que é, colocando sua reputação em jogo. Talvez você deva acreditar.
+
+Este é um exemplo do que os filósofos chamam de testemunho . É semelhante ao tipo de testemunho dado em um tribunal, mas é menos formal e muito mais frequente. O testemunho acontece sempre que você acredita em algo porque outra pessoa garantiu a veracidade das informações. A maior parte do nosso conhecimento sobre o mundo é de segunda mão, chegando até nós por meio de testemunhos. Afinal, não podemos cada um fazer todas as nossas próprias pesquisas científicas, ou fazer nossos próprios mapas de cidades distantes.
+
+Tudo isso depende de “normas” de testemunho. Fazer uma afirmação factual pessoalmente, mesmo que você esteja apenas transmitindo alguma notícia que você pegou em outro lugar, significa assumir a responsabilidade por isso, e colocar sua reputação - isto é, sua credibilidade como fonte - em risco. Parte da razão pela qual as pessoas acreditam em você quando você compartilha informações é esta: eles determinaram sua credibilidade e podem responsabilizá-lo se você estiver mentindo ou se você estiver errado. A confiabilidade do conhecimento de segunda mão vem dessas normas.
+
+Mas a mídia social tem normas estranhas para testemunhos. No Facebook, Twitter e plataformas semelhantes, as pessoas nem sempre acreditam no que dizem, e nos nem sempre esperamos que o façam. Como diz o slogan informal do Twitter: “Um retuíte não é um endosso. ” Quando Donald Trump foi pego retuitando estatísticas falsas sobre raça e crime, ele disse à Fox News que não era grande coisa: “Vou verificar todas as estatísticas? Foi somente um retuíte. Não fui eu que disse. ” Intelectualmente, sabemos que as pessoas fazem isso o tempo todo nas redes sociais e passam adiante notícias sem verificar sua veracidade, mas muitos de nós as ouvimos de qualquer maneira. As informações que eles compartilham são tentadoras demais para ignorar - especialmente quando reafirmam nossas crenças políticas existentes.
+
+Para combater fake news, precisamos seguir as mesmas normas que nos mantêm (relativamente) honestos em happy hours e aplicar nas redes sociais. O problema, no entanto, é que a mídia social é como sair para beber com seus 500 amigos mais próximos, todas as noites. Você pode obter muitas informações, mas em meio a todo o barulho é improvável que você se lembre de quem lhe disse o quê e quem você deve questionar se mais tarde as informações estiverem erradas.
+
+Há simplesmente informações demais para nossas mentes rastrearem. Você lê um título - e às vezes isso pode ser tudo o que você vai realmente ler - e você ficar chocado, clicar no botão de reação de cara zangada e continuar a rolar a página. Há sempre outra história, outro ultraje. Reaja, role, repita.
+
+O número de histórias não é o único problema; é também o número de contadores de histórias. O usuário médio do Facebook tem centenas de amigos , muitos dos quais mal conhece offline. Não há como saber o quão confiável seus amigos do Facebook são. Você pode desconfiar dos memes políticos de um parente, mas e quanto aos links de jornais locais postados por um colega opinativo da esposa de seu primo, que você conheceu em uma festa? É impossível fazer esse cálculo “reputacional” para todas essas pessoas e todas as histórias que elas compartilham.
+
+Para resolver este problema - ou pelo menos melhorar a situação - precisamos estabelecer normas de testemunho estáveis, que nos permitam responsabilizar uns aos outros nas redes sociais. Isso requer desbravar o dilúvio de informações e manter o controle da confiabilidade de centenas de contatos de mídia social. Felizmente, há um aplicativo para isso.
+
+O Facebook já possui recursos que suportam melhores normas de depoimento. A maioria das contas do Facebook são fortemente vinculadas aos círculos sociais reais da vida dos usuários. E, ao contrário de comentaristas anônimos da web, os usuários do Facebook não podem simplesmente se afastar de sua identidade quando forem pegos mentindo. Os usuários têm um motivo para se preocupar com sua reputação epistêmica- ou, pelo menos, teriam se os outros pudessem “vigiar” as informações que eles compartilham.
+
+Este é um sistema que pode ajudar e é baseado em algo que o Facebook já faz para prevenir a propagação de notícias falsas. Atualmente, o Facebook pede a organizações independentes que verificam fatos de todo o espectro político para identificar informações falsas e enganosas. Sempre que os usuários tentam postar algo que foi identificado como fake news, eles são confrontados por um pop-up que explica os problemas com as notícias e pede que confirmem se desejam continuar. Nenhum desses usuários está impedido de postar essas histórias, cujos fatos estão em disputa, mas são obrigados a saber que o que estão compartilhando pode ser falso ou errôneo. O Facebook tem usado esse sistema abertamente desde dezembro de 2016. Menos abertamente, eles também têm mantido guias sobre a frequência com que seus usuários tentam sinalizar histórias como notícias falsas e, usando esse recurso, eles têm calculado a confiabilidade epistêmica de seus usuários. O Washington Post relatou em agosto que o Facebook calcula secretamente pontuações que representam a frequência com que as sinalizações feitas pelos usuários se alinham com o que foi concluído pelas análises de organizações independentes. O Facebook só usa esses dados internamente, para identificar o abuso do sistema de sinalização, e não libera esses dados para os usuários. Não consigo descobrir minha própria pontuação ou a pontuação de nenhum de meus amigos.
+
+Este sistema e o sigilo em torno dele podem parecer um pouco assustadores - e a confiança do público no Facebook foi danificada de forma séria, compreensivelmente - mas acho que o Facebook está no caminho certo. No ano passado, em um artigo publicado no Kennedy Institute of Ethics Journal, propus um sistema um pouco diferente. A diferença principal entre o meu sistema e o que o Facebook implementou é a transparência: o Facebook deve rastrear e exibir a frequência com que cada usuário decide compartilhar informações contestadas após ser avisado de que as informações podem ser falsas ou enganosas.
+
+Em vez de usar esses dados para calcular uma pontuação secreta, o Facebook deve exibir um marcador de confiabilidade simples em cada postagem e comentário. Imagine um pequeno ponto colorido ao lado do nome do usuário, semelhante ao “checkmarks” azuis que o Facebook e o Twitter concedem a contas verificadas: um ponto verde pode indicar que o usuário não escolheu compartilhar notícias muito disputadas, um ponto amarelo pode indicar que ele faze isso às vezes, e um ponto vermelho pode indicar que ele faze isso com frequência. Esses marcadores de confiabilidade permitiriam a qualquer pessoa ver rapidamente o quão confiável seus amigos são.
+
+Não há censura nesta proposta. O Facebook não precisa dobrar seus algoritmos para suprimir as postagens dos usuários com marcadores de baixa confiabilidade: cada usuário ainda pode postar o que quiser, independentemente de os fatos das histórias que eles compartilham estarem em disputa. As pessoas podem escolher usar a mídia social da mesma forma que fazem hoje, mas agora eles teriam uma escolha sempre que encontrassem novas informações. Eles podem olhar para a confiabilidade antes de acenar com a cabeça para a postagem provocativa de um amigo, e eles podem pensar duas vezes antes de repassar uma história estranha de um amigo com um marcador de confiabilidade vermelho. Mais importante de tudo, um marcador de confiabilidade verde poderia tornar-se um recurso valioso, algo para colocar em risco apenas em casos extraordinários - assim como nossa reputação na vida real.
+
+Existe tecnologia por trás dessa ideia, mas é uma tecnologia que já existe. Destina-se a ajudar ao invés de substituir algoritmicamente as normas de testemunho que têm regulado nossa coleta de informações desde muito antes do surgimento da mídia social. No final das contas, a solução para fake news não será apenas um programa inteligente: também envolverá cada um de nós assumindo nossas responsabilidades como cidadãos digitais e colocando nossas reputações epistêmicas em jogo.
+
+Regina Rini (@rinireg) ensina filosofia na York University em Toronto, onde detém o titulo de Canada Research Chair in Philosophy of Moral and Social Cognition.
+
+ 
+Facebook e Fake News
+Considere cada uma das propostas abaixo e responda cada uma das perguntas abaixo.
+
+Propostas
+Proposta 1
+O Facebook depende de um algoritmo, bem como de relatórios de usuários individuais para identificar o conteúdo que é potencialmente "fake news”. Assim que o conteúdo for identificado, ele será enviado a verificadores de fatos terceirizados para averiguação. Se o conteúdo for considerado fake news, ele será sinalizada publicamente com um aviso de que o conteúdo é contestado por verificadores de fatos.
+
+Proposta 2
+No entanto, um designer do Facebook acredita que deve haver uma abordagem diferente para a regulamentação de conteúdo.
+
+A proposta deles é que o conteúdo considerado problemático por verificadores de fatos terceirizados deve ser totalmente impedido de ser compartilhado na plataforma.
+
+Perguntas
+1. Qual forma de regulamento de conteúdo, Proposta 1 ou Proposta 2, você acha que é melhor? Por que?
+
+2. Qual forma de regulamento de conteúdo, Proposta 1 ou Proposta 2, você acha que melhor preserva ou promove os cinco direitos e oportunidades necessários para uma esfera pública democrática (esse link deverá levá-lo a uma página com um vídeo e um texto que será traduzido automaticamente - você não precisa ver o vídeo, somente ler a parte sobre “Cinco direitos e oportunidades para uma esfera pública democrática”)?
+
+a. Qual proposta preserva ou promove melhor Direitos? Por que?
+b. Qual proposta preserva ou promove melhor a Oportunidade de Expressão? Por que?
+c. Qual proposta preserva ou promove melhor o Acesso? Por que?
+d. Qual proposta melhor preserva ou promove a Diversidade? Por que?
+e. Qual proposta preserva ou promove melhor o Poder Comunicativo? Por que?
